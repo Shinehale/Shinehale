@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shinehale
-- 👀 I’m interested in CS courses
-- 🌱 I’m currently learning Assembly language, data structure and discrete math.
+- 👀 I’m interested in CS but My major is EE 
+- 🌱 I’m currently learning advanced data structure and computational analysis.
 - 📫 How to reach me shine_hale@hust.edu.cn
 
 <!---
