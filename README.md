@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😊 My name is **Shinehale**, and I'm an undergraduate student at [Department of Electronic Engineering](https://ei.hust.edu.cn/), [huazhong university of science and technology](https://www.hust.edu.cn/). 
 - 💡 I'm profoundly interested in **Cpp application**.
 - 🔭 In my free time, I enjoying playing football.
-- 🏀 I'm a also huge fan of the ***Lionel Messi***!
+- ⚽ I'm a also huge fan of the ***Lionel Messi***!
 - 📫 Contact me: [**Email**](mailto:shinehale730@gmail.com)
 <!-- - 👇 Check out my projects on Github! -->
 
